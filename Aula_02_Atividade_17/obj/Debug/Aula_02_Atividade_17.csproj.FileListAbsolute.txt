@@ -1,0 +1,9 @@
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_01_Fundamentos_da_linguagem\Aula_02_Atividade_17\bin\Debug\Aula_02_Atividade_17.exe.config
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_01_Fundamentos_da_linguagem\Aula_02_Atividade_17\bin\Debug\Aula_02_Atividade_17.exe
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_01_Fundamentos_da_linguagem\Aula_02_Atividade_17\bin\Debug\Aula_02_Atividade_17.pdb
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_01_Fundamentos_da_linguagem\Aula_02_Atividade_17\obj\Debug\Aula_02_Atividade_17.csprojResolveAssemblyReference.cache
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_01_Fundamentos_da_linguagem\Aula_02_Atividade_17\obj\Debug\Aula_02_Atividade_17.Form1.resources
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_01_Fundamentos_da_linguagem\Aula_02_Atividade_17\obj\Debug\Aula_02_Atividade_17.Properties.Resources.resources
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_01_Fundamentos_da_linguagem\Aula_02_Atividade_17\obj\Debug\Aula_02_Atividade_17.csproj.GenerateResource.Cache
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_01_Fundamentos_da_linguagem\Aula_02_Atividade_17\obj\Debug\Aula_02_Atividade_17.exe
+C:\Users\elias\Documents\Visual Studio 2017\Projects\Alura_CSharp_01_Fundamentos_da_linguagem\Aula_02_Atividade_17\obj\Debug\Aula_02_Atividade_17.pdb
